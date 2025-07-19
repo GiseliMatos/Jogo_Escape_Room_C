@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1751598144 source:c:\users\gisel\desktop\teste\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grafo.h"
+
+1751598558 c:\users\gisel\desktop\teste\grafo.h
+
+1751598558 source:c:\users\gisel\desktop\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Grafo.h"
+
+1751075800 c:\users\gisel\desktop\teste\jogo.h
+	<time.h>
+
+1751643181 source:c:\users\gisel\desktop\projeto estrutura\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grafo.h"
+
+1751598558 c:\users\gisel\desktop\projeto estrutura\grafo.h
+
+1751643468 source:c:\users\gisel\desktop\projeto estrutura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Grafo.h"
+
